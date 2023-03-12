@@ -1,1 +1,0 @@
-.\build\src\Release\main.exe
